@@ -8,3 +8,5 @@ def varianza(lstgen):
     print("la varianza del vector obtenido en genrnd es: ", var / (len(lstgen) -1))
     
 varianza()
+
+#aporte hecho por Marcelo Karim Juri Garay
